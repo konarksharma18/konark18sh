@@ -1,1 +1,2 @@
 Variables are case sensitive in JS
++= and -= | a = a + 5
