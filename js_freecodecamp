@@ -1,2 +1,9 @@
 console.log("Hello World");
 //this is just a comment
+var myName = "Koko";
+console.log(myName)
+myName = 9;
+console.log(myName);
+
+
+//new lesson
