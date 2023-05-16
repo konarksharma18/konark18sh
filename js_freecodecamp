@@ -6,4 +6,18 @@ myName = 9;
 console.log(myName);
 
 
-//new lesson
+//new lesson addition
+var a = 10;
+var b = 12;
+var k = a + b
+console.log(k);
+//new lesson multiply
+var m = a*b
+console.log(m)
+//new lesson divide
+var divide = a/b
+console.log(divide)
+//new experiment divide by 0 
+var zero = 0
+var experiment = a/zero
+console.log(experiment)
